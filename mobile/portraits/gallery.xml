@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+	useFlickr="false"
+	resizeOnImport="false"
+	cropToFit="false"
+	galleryStyle="MODERN"
+	useFlash="false"
+	frameColor="000000"
+	frameWidth="20"
+	thumbPosition="NONE"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	backgroundColor="222222">
+	<image imageURL="../../megazine/src/portraits/Elie Saab.jpg"><caption><![CDATA[Elie Saab]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/Cavalli Roberto.jpg"><caption><![CDATA[Cavalli Roberto]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/Cavalli Eva.jpg"><caption><![CDATA[Cavalli Eva]]></caption></image>
+    <image imageURL="../../megazine/src/portraits/IdaLolo.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/MatteoMarzotto.jpg"><caption><![CDATA[Matteo Marzotto]]></caption></image>
+	 <image imageURL="../../megazine/src/portraits/IMG_4376.jpg"><caption><![CDATA[Candy Dulfer]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/IMG_4425.jpg"><caption><![CDATA[Candy Dulfer]]></caption></image>
+	
+	
+	<image imageURL="../../megazine/src/portraits/Zhanna.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/Ingeborga.jpg"><caption><![CDATA[Ingeborga Dapkūnaitė]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/Simonetta Ravizza.jpg"><caption><![CDATA[Simonetta Ravizza]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/01_doctor_01.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/01_doctor_02.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/01_JasonButton-1.jpg"><caption><![CDATA[Jason Button]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/03_Julia_01.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/03_Julia_02.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/04_Mila.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/04_Scan-4_3_475px.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/portraits/04_white.jpg"><caption><![CDATA[]]></caption></image>
+
+  
+</simpleviewergallery>

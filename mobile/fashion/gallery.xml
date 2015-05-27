@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+	galleryStyle="MODERN"
+	useFlash="false"
+	frameColor="000000"
+	frameWidth="20"
+	thumbPosition="NONE"
+	showOpenButton="false"
+	showFullscreenButton="false"
+	backgroundColor="222222">
+	
+
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 4.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 3.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 2.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 1.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>	
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 6.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Elena Pirogova - I Clown 5.jpg"><caption><![CDATA[I, CLOWN]]></caption></image>
+		
+	<image imageURL="../../megazine/src/fashion/beauty_IMG_2070.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/beauty_IMG_3580.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/beauty_IMG_3736.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/beauty_IMG_2093.jpg"><caption><![CDATA[]]></caption></image>	
+	<image imageURL="../../megazine/src/fashion/beauty_IMG_3636.jpg"><caption><![CDATA[]]></caption></image>	
+				
+    <image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1483.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1609.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+    <image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1640.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1671.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+    <image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1762.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/UnaBurke_AW13_R2A1857.jpg"><caption><![CDATA[Una Burke SS2013]]></caption></image>
+
+	<image imageURL="../../megazine/src/fashion/test_IMG_6537.jpg"><caption><![CDATA[Katerina Smutok]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/test_IMG_6560.jpg"><caption><![CDATA[Katerina Smutok]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/test_IMG_6583.jpg"><caption><![CDATA[Katerina Smutok]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/test_IMG_6740.jpg"><caption><![CDATA[Katerina Smutok]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/test_IMG_6792.jpg"><caption><![CDATA[Katerina Smutok]]></caption></image>
+
+
+    <image imageURL="../../megazine/src/fashion/Una Burke AW2012_5568.jpg"><caption><![CDATA[Una Burke AW2012]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Una Burke AW2012_5329.jpg"><caption><![CDATA[Una Burke AW2012]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Una Burke AW2012_5640.jpg"><caption><![CDATA[Una Burke AW2012]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/Una Burke AW2012_5430.jpg"><caption><![CDATA[Una Burke AW2012]]></caption></image>
+				
+		
+	<image imageURL="../../megazine/src/fashion/MyTrousseau_IMG_4636.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/MyTrousseau_IMG_4811.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/MyTrousseau_IMG_4854.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/MyTrousseau_IMG_5194.jpg"><caption><![CDATA[]]></caption></image>
+	
+	
+	<image imageURL="../../megazine/src/fashion/01_mermaid_01.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_02.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_03.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_04.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_05.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_06.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_mermaid_07.jpg"><caption><![CDATA[]]></caption></image>
+	
+    <image imageURL="../../megazine/src/fashion/_MG_0166.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_9558.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_9691.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_9950.jpg"><caption><![CDATA[]]></caption></image>
+
+	<image imageURL="../../megazine/src/fashion/_MG_0467.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_0610.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_0671.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/_MG_0764.jpg"><caption><![CDATA[]]></caption></image>
+	
+	<image imageURL="../../megazine/src/fashion/01_jasuma_01.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_jasuma_02.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_jasuma_03.jpg"><caption><![CDATA[]]></caption></image>
+	<image imageURL="../../megazine/src/fashion/01_jasuma_04.jpg"><caption><![CDATA[]]></caption></image>
+			
+  
+</simpleviewergallery>

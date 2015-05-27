@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE book SYSTEM "http://megazine.mightypirates.de/megazine2.dtd">
+<book navigation="false"
+      hidebuttons="true"
+      pagewidth="487"
+ 	  pageheight="650"
+	  bggradient="false"
+	  reflection="false"
+	  bgcolor="0x101010"
+	  shadows="0.75"
+	  licensekey="48aa0cb8367f4e1e570e54de3e076397"
+	  instantjumpcount="30"
+	  fadein="true"
+	  loadparallel="3"
+	  lowqualitycount="30"
+	  spinecolor="0xBDBDBD"
+	  plugins="links,anchors,javascript,swfaddress"
+	  maxthickness="70"
+	  spinecurvature="0.5"
+	  maxloaded="30"
+	  thumbloadtext=" "
+	  autodrag="true">
+
+	   <background>
+        <box anchors="0,0,pw,ph" background="image(src/wood2.jpg)"/>
+       </background>
+	  
+	<chapter>
+	
+    	<page stiff="true">
+		 <img src="src/additional/cover.jpg"/>
+    	</page>
+	    <page></page>
+	
+     	<page anchor="fashion">
+		   <img src="src/additional/fashion.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1640.jpg"/>
+		   
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1671.jpg"/>
+		   <txt left="45" color="0x000000">
+             <content><![CDATA[look-book for ÚNA BURKE AW13]]></content>
+           </txt>
+		</page>
+		
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1772.jpg"/>
+		   <txt left="45" color="0x000000">
+             <content><![CDATA[look-book for ÚNA BURKE AW13]]></content>
+           </txt>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1857.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1762.jpg"/>
+		   
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/UnaBurke_AW13_R2A1609.jpg"/>
+		   <txt left="45" color="0x000000">
+             <content><![CDATA[look-book for ÚNA BURKE AW13]]></content>
+           </txt>
+		</page>
+		<page>
+		   <img left="30"src="src/fashion/Elena Pirogova - I Clown 4.jpg"/>
+
+        </page>
+        <page>
+		   <img left="30"src="src/fashion/Elena Pirogova - I Clown 3.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/Elena Pirogova - I Clown 2.jpg"/>
+
+        </page>
+        <page>
+		   <img left="30"src="src/fashion/Elena Pirogova - I Clown 1.jpg"/>
+		</page>
+		
+		<page>
+		   <img src="src/fashion/Elena Pirogova - I Clown 6.jpg"/>
+
+        </page>
+        <page>
+		   <img left="35"src="src/fashion/Elena Pirogova - I Clown 5.jpg"/>
+		</page>
+		
+		<page>
+		   <img src="src/fashion/beauty_IMG_2070.jpg"/>
+
+        </page>
+        <page>
+		   <img src="src/fashion/beauty_IMG_3580.jpg"/>
+		</page>
+
+		<page>
+		   <img src="src/fashion/beauty_IMG_3736.jpg"/>
+
+        </page>
+        <page>
+		   <img src="src/fashion/beauty_IMG_2093.jpg"/>
+		</page>
+		
+				
+		<page>
+		   <img left="30"src="src/fashion/test_IMG_6537.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/test_IMG_6560.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/test_IMG_6583.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/test_IMG_6792.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/Una Burke AW2012_5568.jpg"/>
+		   <txt left="45" color="0x000000">
+             <content><![CDATA[look-book for ÚNA BURKE AW12]]></content>
+           </txt>
+		</page>
+		
+		<page>
+		   <img left="30"src="src/fashion/Una Burke AW2012_5430.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="25" src="src/fashion/MyTrousseau_IMG_4594.jpg"/>
+		</page>
+		<page>
+		   <img left="5" src="src/fashion/MyTrousseau_IMG_5194.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="30" src="src/fashion/MyTrousseau_IMG_4854.jpg"/>
+		</page>
+		<page>
+		   <img left="20" src="src/fashion/MyTrousseau_IMG_4811.jpg"/>
+		</page>
+		
+		<spreadpage foldfx="0">
+			<img left="33" src="src/fashion/MyTrousseau_IMG_4636.jpg"/>
+		</spreadpage>
+		
+		<page>
+		   <img left="36" src="src/fashion/01_AnnaLee_01.jpg"/>
+		</page>
+	    <page>
+		   <img left="18" src="src/fashion/01_AnnaLee_02.jpg"/>
+		</page>
+		<spreadpage foldfx="0">
+			<img left="5" src="src/fashion/01_AnnaLee_03_left-1.jpg"/>
+		</spreadpage>
+		<page>
+		   <img left="5" top="73" src="src/fashion/01_AnnaLee_04.jpg"/>
+		</page>
+		<page>
+		   <img left="5" top="73" src="src/fashion/01_AnnaLee_05_q7.jpg"/>
+		</page>
+		<page>
+		   <img left="5" top="73" src="src/fashion/01_mermaid_01.jpg"/>
+		</page>
+		<page>
+		   <img top="73" src="src/fashion/01_mermaid_03.jpg"/>
+		</page>
+		
+		<spreadpage foldfx="0">
+		   <img src="src/fashion/01_mermaid_07.jpg"/>
+		</spreadpage>
+		<page>
+		   <img left="36" src="src/fashion/01_mermaid_06.jpg"/>
+		</page>
+	    <page>
+		   <img left="13" src="src/fashion/01_mermaid_05.jpg"/>
+		</page>
+		
+		<spreadpage foldfx="0">
+			<img src="src/fashion/_MG_0166.jpg"/>
+		</spreadpage>
+		
+		<spreadpage foldfx="0">
+			<img src="src/fashion/_MG_9558.jpg"/>
+		</spreadpage>
+		
+		<spreadpage foldfx="0">
+			<img src="src/fashion/_MG_9691.jpg"/>
+		</spreadpage>
+		
+		<spreadpage foldfx="0">
+			<img src="src/fashion/_MG_9950.jpg"/>
+		</spreadpage>
+		
+		
+				    
+		<page anchor="portraits">
+		</page>
+	    <page>
+		   <img src="src/additional/portraits.jpg"/>
+		</page>
+		
+		<page>
+			<img left="12" src="src/portraits/MatteoMarzotto.jpg"/>
+			<txt color="0x000000" left="140" top="40">
+                <content><![CDATA[    Matteo Marzotto <br/> for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		<page>
+			<img left="25" src="src/portraits/Cavalli Roberto.jpg"/>
+			<txt color="0x000000" left="65" top="60">
+                <content><![CDATA[      Roberto Cavalli <br/> for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		
+		
+		<spreadpage foldfx="0">
+		   <img left="0" src="src/portraits/Cavalli Eva.jpg"/>
+		   <txt color="0x000000" left="130" top="50">
+             <content><![CDATA[       Eva Cavalli <br/>for InStyle magazine]]></content>
+           </txt>
+           </spreadpage>
+		
+		<page>
+		   <img left="18" src="src/portraits/IMG_4376.jpg"/>
+			<txt color="0x000000" left="135" top="20">
+                <content><![CDATA[Candy Dulfer for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		<page>
+			<img left="21" src="src/portraits/IMG_4425.jpg"/>
+			<txt color="0x000000" left="45" top="50">
+                <content><![CDATA[     Candy Dulfer <br/> for Jaeger-LeCoultre]]></content>
+			</txt>
+		</page>
+		
+		<spreadpage foldfx="0">
+		   <img left="0" src="src/portraits/Ingeborga.jpg"/>
+		   <txt color="0x000000" left="750" top="50">
+             <content><![CDATA[Ingeborga Dapkunaite <br/> for InStyle magazine]]></content>
+           </txt>
+           </spreadpage>
+		
+		<page>
+			<img left="17" src="src/portraits/Simonetta Ravizza.jpg"/>
+			<txt color="0x000000" left="100" top="10">
+                <content><![CDATA[     Simonetta Ravizza for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		<page>
+			<img left="12" src="src/portraits/Elie Saab.jpg"/>
+			<txt color="0x000000" left="45" top="50">
+                <content><![CDATA[         Elie Saab <br/> for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		<spreadpage foldfx="0">
+		 	 <img left="18" src="src/portraits/_MG_3752.jpg"/>
+             <txt color="0xffffff" left="800">
+             <content><![CDATA[   Anna Valeria Hash <br/> for InStyle magazine]]></content>
+           </txt>
+		</spreadpage>
+		
+		<page>
+		   <img left="15" src="src/portraits/_MG_4961_web650px.jpg"/>
+			<txt color="0x000000" left="25" top="520">
+                <content><![CDATA[Christine D'Ornano <br/>(Sisley Cosmetics) <br/>for InStyle magazine]]></content>
+			</txt>
+		</page>
+		
+		<page>
+			<img left="21" src="src/portraits/_MG_4069.jpg"/>
+			<txt color="0x000000" left="25">
+                <content><![CDATA[Bruno Frisoni (Roger Vivier) <br/>     for InStyle magazine]]></content>
+			</txt>
+		</page>
+		<spreadpage foldfx="0">
+		   <img left="47" src="src/portraits/_MG_0038_650px.jpg"/>
+		   <txt color="0xffffff" left="800" top="50">
+             <content><![CDATA[Jenson Button]]></content>
+           </txt>
+		</spreadpage>
+		
+		<page>
+			<img left="18" src="src/portraits/IdaLolo.jpg"/>
+		</page>
+		
+		<page>
+			<img left="18" src="src/portraits/04_Mila.jpg"/>
+		</page>
+		
+		<page>
+			<img left="18" src="src/portraits/04_white.jpg"/>
+		</page>
+		<page>
+			<img left="18" src="src/portraits/01_doctor_02.jpg"/>
+		</page>	
+		
+		<spreadpage foldfx="0">
+		   <img left="0" src="src/portraits/Zhanna.jpg"/>
+           </spreadpage>
+			
+		<page>
+		   <img left="10" top="73" src="src/portraits/02_Lera-holga-1.jpg"/>
+		</page>
+		
+		<page>
+		   <img left="10" top="73" src="src/portraits/04_Scan-4_3_475px.jpg"/>
+		</page>
+
+		<page anchor="contact">
+		   <img src="src/additional/bio.jpg"/>
+		</page>
+	    <page stiff="true">
+		   <img src="src/additional/contact-page.jpg" url="mailto:contact@e-pirogova.com" overlay="0x000001"/>
+		</page>
+		<page stiff="true" bgcolor="0x00001" >
+		</page>
+	</chapter>
+</book>
